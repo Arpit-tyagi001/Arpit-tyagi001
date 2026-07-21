@@ -1,27 +1,253 @@
-# 💫 About Me:
-👋 About Me<br><br>Hi, I’m **Arpit Tyagi** — a Final year B.Tech CSE student at **BIT Meerut**.<br><br>I’m passionate about building impactful tech solutions and currently focused on **Web Development** and **Artificial Intelligence**. I enjoy turning ideas into real-world applications and continuously improving my problem-solving skills.<br><br>🚀 Skills & Technologies<br><br>* Languages: Python, Java, JavaScript<br>* Frontend: HTML, CSS, Tailwind CSS, React<br>* Core Interests: Web Development,Web3, AI, ML<br><br>📈 What I’m Doing<br><br>* Actively mastering **full-stack web development**<br>* Exploring **AI and Data Science** for future growth<br>* Building projects to strengthen real-world development skills<br><br>🎯 Goals<br><br>* Become a skilled **Software Engineer**<br>* Transition into **Data Science & AI**<br>* Build scalable and impactful tech solutions<br><br>---<br><br>💡 *Always learning, always building.*<br>
+<!-- ========================= HEADER ========================= -->
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=240&section=header&text=Arpit%20Tyagi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=55"/>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ch_arpit_tyagi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arpit-tyagi1000) 
+<div align="center">
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arpit-tyagi001&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=arpit-tyagi001&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arpit-tyagi001&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# 👋 Hi, I'm Arpit Tyagi
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arpit-tyagi001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 🚀 Full Stack Developer | AI Engineer | Open Source Contributor
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1200&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Applications;React+%7C+FastAPI+%7C+Python;Machine+Learning+%7C+LLMs+%7C+AI+Agents;Open+Source+Contributor;Always+Learning+%F0%9F%9A%80" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=arpit-tyagi001&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p>
+<img src="https://komarev.com/ghpvc/?username=arpit-tyagi001&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/arpit-tyagi001?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/arpit-tyagi001?style=for-the-badge"/>
+</p>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=arpit-tyagi001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+🎓 Final Year B.Tech Computer Science Student at **BIT Meerut**
+
+🤖 Currently building **HireWise AI** — an AI-powered Resume Analysis Platform
+
+💻 Passionate about building modern **AI-powered Full Stack Applications**
+
+🌱 Currently learning
+
+- Machine Learning
+- Deep Learning
+- LLM Engineering
+- AI Agents
+- FastAPI
+- System Design
+
+🎯 Career Interests
+
+- Artificial Intelligence
+- Full Stack Development
+- Software Engineering
+- Open Source
+
+---
+
+# 🎯 Current Mission
+
+```yaml
+Building:
+  - HireWise AI
+  - AI Powered Applications
+
+Learning:
+  - Machine Learning
+  - Deep Learning
+  - LLMs
+  - RAG
+  - AI Agents
+
+Contributing:
+  - Open Source
+  - GSSoC
+```
+
+---
+
+# ⚡ Tech Stack
+
+## 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts"/>
+</p>
+
+---
+
+## 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite,redux"/>
+</p>
+
+---
+
+## ⚙ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+</p>
+
+---
+
+## 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,prisma"/>
+</p>
+
+---
+
+## 🤖 AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+**Libraries & Tools**
+
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- FastAPI
+- LLM APIs
+- AI Agents
+
+---
+
+## 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vercel,photoshop,vscode"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 HireWise AI
+
+### AI-Powered Resume Analyzer
+
+> Helping students optimize resumes and enabling recruiters to streamline candidate screening.
+
+**Tech Stack**
+
+React • TypeScript • Tailwind CSS • FastAPI • Python
+
+**Features**
+
+- ATS Score Analysis
+- Resume Parsing
+- Candidate Dashboard
+- Analytics
+- AI Suggestions
+- Responsive SaaS UI
+
+---
+
+## 🌌 Virtual AI & AR Image Gallery
+
+Interactive AI + AR experience built with
+
+React • AR.js • Three.js • A-Frame
+
+---
+
+## 💳 Loan Qualification Checker
+
+Machine Learning powered loan eligibility prediction system.
+
+---
+
+## 🎥 Face Attendance Recognition
+
+Python based face recognition attendance system using
+
+InsightFace • OpenCV • Flask
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arpit-tyagi001&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit-tyagi001&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arpit-tyagi001&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpit-tyagi001&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+🏅 GSSoC 2026 Contributor
+
+🏅 Oracle AI Foundations Associate
+
+🏅 ML Intern
+
+🏅 Building HireWise AI
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/arpit-tyagi1000">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/Arpit-tyagi001">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> **"Always Learning. Always Building. Always Improving." 🚀**
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+</div>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
+</p>
