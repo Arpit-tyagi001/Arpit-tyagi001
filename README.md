@@ -174,7 +174,7 @@ Machine Learning based loan eligibility prediction system.
 
 <div align="center">
 
-🏅 Google Summer of Code Style Contributor (GSSoC 2026) &nbsp;|&nbsp; 🏅 Oracle AI Foundations Associate
+🏅 GirlScript Summer of Code Contributor (GSSoC 2026) &nbsp;|&nbsp; 🏅 Oracle AI Foundations Associate
 
 🏅 Machine Learning Intern &nbsp;|&nbsp; 🏅 Open Source Contributor
 
