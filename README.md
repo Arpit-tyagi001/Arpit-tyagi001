@@ -16,21 +16,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00C9FF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Applications+%F0%9F%A4%96;LLMs+%7C+Computer+Vision+%7C+Full+Stack;Turning+Ideas+Into+Shipped+Products+%F0%9F%9A%80;Always+Learning%2C+Always+Building"/>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Arpit-tyagi001&label=Profile%20Views&color=0e75b6&style=flat"/>
-<img src="https://img.shields.io/github/followers/Arpit-tyagi001?style=flat&logo=github&color=0e75b6&label=Followers"/>
-
-<br/><br/>
-
-<a href="https://your-portfolio-url.vercel.app">
-  <img src="https://img.shields.io/badge/🌐%20Full%20Portfolio%20(3D%20%2B%20Live%20Demos)-d6b878?style=for-the-badge&logoColor=black"/>
-</a>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Arpit-tyagi001&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%"/>
-
 </div>
 
 <br/>
@@ -132,8 +117,6 @@ goal: Build reliable, production-grade AI products
 
 ## 🤖 HireWise AI
 
-<img src="https://your-cdn-or-github-raw-link/hirewise-demo.gif" width="100%" alt="HireWise AI demo"/>
-
 **AI-Powered Resume Analysis & Career Intelligence Platform**
 
 A full-stack platform combining NLP, ML, and LLMs to analyze resumes, score ATS compatibility, and generate honest, non-fabricated resume improvements.
@@ -149,7 +132,6 @@ A full-stack platform combining NLP, ML, and LLMs to analyze resumes, score ATS 
 
 **Stack:** `React` `TypeScript` `FastAPI` `Python` `SQLAlchemy` `scikit-learn` `Groq`
 
-<a href="https://your-hirewise-live-url.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-d6b878?style=flat-square&logoColor=black"/></a>
 <a href="https://github.com/Arpit-tyagi001/Hirewise-AI"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
@@ -157,8 +139,6 @@ A full-stack platform combining NLP, ML, and LLMs to analyze resumes, score ATS 
 <td width="50%" valign="top">
 
 ## 🛡️ SentinelVisionAI
-
-<img src="https://your-cdn-or-github-raw-link/sentinelvision-demo.gif" width="100%" alt="SentinelVisionAI demo"/>
 
 **Real-Time Computer Vision Attendance & Safety Platform**
 
@@ -187,8 +167,6 @@ A live computer vision system combining face recognition, attendance tracking, a
 
 ## 🎨 Virtual AI Art Gallery
 
-<img src="https://your-cdn-or-github-raw-link/artgallery-demo.gif" width="100%" alt="Virtual AI Art Gallery demo"/>
-
 **Interactive AI-Powered Digital Art Museum**
 
 A WebGL-based gallery combining real-time AI image generation with a polished 3D interface.
@@ -202,7 +180,6 @@ A WebGL-based gallery combining real-time AI image generation with a polished 3D
 
 **Stack:** `React` `Three.js` `React Three Fiber` `Framer Motion` `Pollinations.ai`
 
-<a href="https://your-artgallery-live-url.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-d6b878?style=flat-square&logoColor=black"/></a>
 <a href="https://github.com/Arpit-tyagi001/AI-Art-Gallery"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
@@ -223,8 +200,6 @@ A classification pipeline predicting customer purchase behavior from demographic
 * Deployed live client-side demo on Vercel
 
 **Stack:** `Python` `Pandas` `scikit-learn` `JavaScript`
-
-<a href="https://your-predictor-live-url.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-d6b878?style=flat-square&logoColor=black"/></a>
 
 </td>
 
@@ -322,12 +297,6 @@ I'm always experimenting, learning, and turning ideas into working, verified sof
 
 <a href="https://linkedin.com/in/arpit-tyagi1000">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<a href="https://your-portfolio-url.vercel.app">
-  <img src="https://img.shields.io/badge/View%20Full%20Portfolio-d6b878?style=for-the-badge&logoColor=black"/>
 </a>
 
 <br/><br/>
