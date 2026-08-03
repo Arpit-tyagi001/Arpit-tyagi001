@@ -298,7 +298,15 @@ I'm always experimenting, learning, and turning ideas into working, verified sof
 <a href="https://linkedin.com/in/arpit-tyagi1000">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<p align="center">
 
+<img src="https://komarev.com/ghpvc/?username=Arpit-tyagi001&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/Arpit-tyagi001?label=Followers&style=for-the-badge&logo=github" />
+
+<img src="https://img.shields.io/github/stars/Arpit-tyagi001?affiliations=OWNER&style=for-the-badge&logo=github" />
+
+</p>
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:0F2027&height=120&section=footer" width="100%"/>
