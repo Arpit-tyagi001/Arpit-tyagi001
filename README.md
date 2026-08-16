@@ -119,7 +119,7 @@ goal: Build reliable, production-grade AI products
 
 **AI-Powered Resume Analysis & Career Intelligence Platform**
 
-A full-stack platform combining NLP, ML, and LLMs to analyze resumes, score ATS compatibility, and generate honest, non-fabricated resume improvements.
+A full-stack platform combining NLP, ML,Web3 and LLMs to analyze resumes, score ATS compatibility, and generate honest, non-fabricated resume improvements.
 
 **Highlights**
 
