@@ -287,7 +287,7 @@ Real, Verified User Experience
 
 ## 💡 Building practical AI solutions for real-world problems.
 
-I'm always experimenting, learning, and turning ideas into working, verified software.
+I'm always experimenting, learning, and turning ideas into working, verified software .
 
 <br/>
 
