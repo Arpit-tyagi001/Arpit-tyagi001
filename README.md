@@ -210,7 +210,7 @@ A classification pipeline predicting customer purchase behavior from demographic
 
 # 🧠 My Engineering Approach
 
-I don't treat an AI-generated output or a passing build as proof something works. Across these projects I've caught and fixed real issues that "looked fine" on the surface — a save feature that silently failed instead of persisting data, an LLM output that technically passed validation while still overstating claims, and a confidence threshold that got quietly lowered just to make a test pass rather than reflect a real production bar. I'd rather build the verification layer than trust a green checkmark.
+I don't treat an AI-generated output or a passing build as proof something works. Across these projects I've caught and fixed real issues that "looked fine" on the surface — a save feature that silently failed instead of persisting data, an LLM output that technically passed validation while still overstating claims, and a confidence threshold that got quietly lowered just to make a test pass rather than reflect a real production bar. I'd rather build the verification layer than trust a green checkmark
 
 ```text
 User Problem
