@@ -3,18 +3,20 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=260&section=header&text=Arpit%20Tyagi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Computer%20Vision&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://linkedin.com/in/arpit-tyagi1000">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
 <a href="mailto:arpittyagidev101@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://github.com/Arpit-tyagi001">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00C9FF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Applications+%F0%9F%A4%96;LLMs+%7C+Computer+Vision+%7C+Full+Stack;Turning+Ideas+Into+Shipped+Products+%F0%9F%9A%80;Always+Learning%2C+Always+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00C9FF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Applications+%F0%9F%A4%96;LLMs+%7C+Computer+Vision+%7C+Full+Stack;Turning+Ideas+Into+Shipped+Products+%F0%9F%9A%80;Building%2C+Testing%2C+and+Verifying+AI+Systems"/>
 
 </div>
 
@@ -24,15 +26,19 @@
 
 I'm **Arpit Tyagi**, a Computer Science student focused on **AI Engineering, Full-Stack Development, and Computer Vision**.
 
-I enjoy building practical software that combines modern web technologies with AI/ML systems — from **LLM-powered applications and intelligent resume analysis to real-time face recognition and computer vision safety systems**. I care as much about verifying a system actually works end-to-end as I do about building the feature in the first place.
+I build practical software that combines **AI/ML systems with modern web applications** — from LLM-powered resume intelligence and RAG-style workflows to real-time face recognition and computer-vision safety systems.
+
+What I enjoy most is going beyond the initial implementation: **testing edge cases, finding failures, debugging unexpected behavior, and adding validation so the system actually works end-to-end.**
 
 ```yaml
 name: Arpit Tyagi
 role: AI Engineer / Full-Stack Developer
+
 focus:
-  - AI Engineering & LLM Guardrails
+  - AI Engineering & LLM Applications
   - Computer Vision & Real-Time Systems
   - Full-Stack Development
+  - AI Reliability & Guardrails
 
 currently_building:
   - HireWise AI
@@ -44,7 +50,8 @@ currently_learning:
   - RAG & Tool Calling
   - System Design
 
-goal: Build reliable, production-grade AI products
+goal:
+  Build reliable, production-grade AI products
 ```
 
 <br/>
@@ -66,6 +73,7 @@ goal: Build reliable, production-grade AI products
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Three_Fiber-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 </p>
@@ -76,7 +84,6 @@ goal: Build reliable, production-grade AI products
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<br/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -90,7 +97,6 @@ goal: Build reliable, production-grade AI products
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
-<br/>
 <img src="https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge"/>
 </p>
@@ -119,20 +125,23 @@ goal: Build reliable, production-grade AI products
 
 **AI-Powered Resume Analysis & Career Intelligence Platform**
 
-A full-stack platform combining NLP, ML,Web3 and LLMs to analyze resumes, score ATS compatibility, and generate honest, non-fabricated resume improvements.
+A full-stack AI platform that analyzes resumes against job descriptions, evaluates ATS compatibility, identifies skill gaps, and generates grounded resume improvements.
 
-**Highlights**
+### Highlights
 
 * 10-dimension ATS scoring engine
-* JD skill-gap matching (TF-IDF + cosine similarity)
-* AI-powered resume rewriter with a hard anti-fabrication guardrail — validated through deliberate adversarial testing (sparse resume vs. demanding JD) to confirm zero hallucinated metrics or skills
-* JWT auth with tested per-user data isolation
-* Tailored DOCX export
-* Deployed: React/Vercel frontend + FastAPI/Render backend
+* JD skill-gap matching using **TF-IDF + cosine similarity**
+* AI-powered resume rewriting with **anti-fabrication guardrails**
+* Adversarial testing to verify that unsupported skills and metrics are not invented
+* JWT authentication with tested per-user data isolation
+* Tailored DOCX resume export
+* Deployed with **React/Vercel + FastAPI/Render**
 
 **Stack:** `React` `TypeScript` `FastAPI` `Python` `SQLAlchemy` `scikit-learn` `Groq`
 
-<a href="https://github.com/Arpit-tyagi001/Hirewise-AI"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Arpit-tyagi001/Hirewise-AI">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
@@ -142,20 +151,24 @@ A full-stack platform combining NLP, ML,Web3 and LLMs to analyze resumes, score 
 
 **Real-Time Computer Vision Attendance & Safety Platform**
 
-A live computer vision system combining face recognition, attendance tracking, and automated safety alerting.
+A real-time computer vision system combining **face recognition, attendance tracking, liveness detection, fire/smoke detection, and automated safety alerts**.
 
-**Highlights**
+### Highlights
 
-* Face recognition via 128D embeddings (dlib ResNet-34), tuned distance threshold + ambiguity-margin rejection
-* Blink-based liveness detection to defend against photo-spoofing
-* RTSP mobile camera streaming — fixed a buffering bug that cut live latency from ~5s to under 400ms
-* Custom-trained YOLO fire/smoke detection running in parallel with face recognition
-* Automated multi-channel alerts (email, SMS, WhatsApp) via Resend + Twilio
-* Time-window after-hours intrusion detection with audit logging
+* Face recognition using **128D facial embeddings**
+* Tuned recognition threshold with ambiguity-margin rejection
+* Blink-based liveness detection for photo-spoof resistance
+* RTSP mobile-camera streaming
+* Reduced live-stream latency from **~5s to <400ms**
+* Custom YOLO fire/smoke detection running alongside face recognition
+* Automated email, SMS, and WhatsApp alerts
+* After-hours intrusion detection with audit logging
 
 **Stack:** `Python` `Flask` `OpenCV` `YOLO` `SQLite` `Twilio` `Resend`
 
-<a href="https://github.com/Arpit-tyagi001/face-attendance-recognition-system"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Arpit-tyagi001/face-attendance-recognition-system">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
@@ -169,18 +182,24 @@ A live computer vision system combining face recognition, attendance tracking, a
 
 **Interactive AI-Powered Digital Art Museum**
 
-A WebGL-based gallery combining real-time AI image generation with a polished 3D interface.
+A WebGL-based digital gallery combining **AI-generated artwork with an interactive 3D experience**.
 
-**Highlights**
+### Highlights
 
-* Real AI artwork generation via Pollinations.ai (debugged a Cloudflare referrer-block and a tainted-canvas CORS issue to get true offline-persistent image storage)
-* React Three Fiber 3D hero centerpiece — 58–60 FPS sustained, +1.6KB initial bundle cost via lazy code-splitting
-* Premium editorial UI system, custom cursor, Framer Motion transitions
-* Accessibility: `prefers-reduced-motion` support + lightweight mobile fallback
+* Real AI artwork generation through Pollinations.ai
+* Persistent client-side image storage
+* React Three Fiber 3D centerpiece
+* Sustained **58–60 FPS** performance
+* Lazy code-splitting for reduced initial bundle cost
+* Custom cursor and Framer Motion transitions
+* `prefers-reduced-motion` accessibility support
+* Lightweight mobile fallback
 
 **Stack:** `React` `Three.js` `React Three Fiber` `Framer Motion` `Pollinations.ai`
 
-<a href="https://github.com/Arpit-tyagi001/AI-Art-Gallery"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Arpit-tyagi001/AI-Art-Gallery">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
@@ -190,14 +209,16 @@ A WebGL-based gallery combining real-time AI image generation with a polished 3D
 
 **Machine Learning Purchase Prediction System**
 
-A classification pipeline predicting customer purchase behavior from demographic and financial features.
+A classification pipeline that predicts customer purchase behavior from demographic and financial features.
 
-**Highlights**
+### Highlights
 
-* 1,500-record dataset, 9 predictive features
-* Logistic Regression vs. Random Forest benchmarking
-* 74.7% ROC-AUC, 75.3% F1-score
-* Deployed live client-side demo on Vercel
+* 1,500-record dataset
+* 9 predictive features
+* Logistic Regression vs Random Forest benchmarking
+* **74.7% ROC-AUC**
+* **75.3% F1-score**
+* Live client-side demo deployed on Vercel
 
 **Stack:** `Python` `Pandas` `scikit-learn` `JavaScript`
 
@@ -208,14 +229,24 @@ A classification pipeline predicting customer purchase behavior from demographic
 
 <br/>
 
-# 🧠 My Engineering Approach
+# 🧠 How I Engineer AI Systems
 
-I don't treat an AI-generated output or a passing build as proof something works. Across these projects I've caught and fixed real issues that "looked fine" on the surface — a save feature that silently failed instead of persisting data, an LLM output that technically passed validation while still overstating claims, and a confidence threshold that got quietly lowered just to make a test pass rather than reflect a real production bar. I'd rather build the verification layer than trust a green checkmark.
+I don't consider an AI-generated response or a passing build enough evidence that a system works.
+
+While building my projects, I've deliberately investigated failures that were easy to miss:
+
+* A save feature that appeared successful but failed to persist data
+* LLM outputs that passed validation while still making unsupported claims
+* Recognition thresholds that could be lowered simply to make tests pass
+* Real-time video buffering that introduced several seconds of latency
+* CORS and browser security issues affecting generated-image persistence
+
+These experiences shaped how I build:
 
 ```text
 User Problem
      ↓
-Data / Input Processing
+Input / Data Processing
      ↓
 Rules + ML
      ↓
@@ -225,8 +256,13 @@ Validation & Guardrails
      ↓
 Backend API
      ↓
-Real, Verified User Experience
+Testing & Verification
+     ↓
+Real User Experience
 ```
+
+**My goal isn't just to make AI work.
+It's to make the system behave reliably when things go wrong.**
 
 <br/>
 
@@ -238,20 +274,22 @@ Real, Verified User Experience
 
 🏅 **Machine Learning Intern**
 
+🏅 **Google Summer of Code / GSSoC 2026 Contributor Selection**
+
 </div>
 
 <br/>
 
 # 🎯 2026 Goals
 
-* ✅ Build and ship HireWise AI
-* ✅ Deploy HireWise AI to production (Vercel + Render)
-* ✅ Build SentinelVisionAI with real-time safety detection
-* ⏳ Land real, merged open-source contributions
-* ⏳ Solve 300+ LeetCode problems
-* ⏳ Build deeper expertise in LLM Agents & RAG
-* ⏳ Strengthen System Design fundamentals
-* ⏳ Land a Software Engineering / AI Engineering role
+* ✅ Build and ship **HireWise AI**
+* ✅ Deploy HireWise AI to production
+* ✅ Build **SentinelVisionAI** with real-time safety detection
+* ⏳ Land meaningful open-source contributions
+* ⏳ Solve **300+ LeetCode problems**
+* ⏳ Build deeper expertise in **LLM Agents & RAG**
+* ⏳ Strengthen **System Design** fundamentals
+* ⏳ Land a **Software Engineering / AI Engineering** role
 
 <br/>
 
@@ -276,29 +314,30 @@ Real, Verified User Experience
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+<img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
 <br/><br/>
 
 <div align="center">
 
-## 💡 Building practical AI solutions for real-world problems.
+## 💡 Build. Test. Break. Fix. Ship.
 
-I'm always experimenting, learning, and turning ideas into working, verified software .
+I enjoy turning ideas into **working, measurable, and reliable software**.
 
 <br/>
 
 <a href="https://github.com/Arpit-tyagi001">
-  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/arpit-tyagi1000">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<p align="center">
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Arpit-tyagi001&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
@@ -306,7 +345,6 @@ I'm always experimenting, learning, and turning ideas into working, verified sof
 
 <img src="https://img.shields.io/github/stars/Arpit-tyagi001?affiliations=OWNER&style=for-the-badge&logo=github" />
 
-</p>
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:0F2027&height=120&section=footer" width="100%"/>
