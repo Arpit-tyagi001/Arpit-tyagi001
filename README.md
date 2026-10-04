@@ -274,7 +274,7 @@ It's to make the system behave reliably when things go wrong.**
 
 🏅 **Machine Learning Intern**
 
-🏅 **Google Summer of Code / GSSoC 2026 Contributor Selection**
+🏅 **GirlScript of Code / GSSoC 2026 Contributor Selection**
 
 </div>
 
