@@ -22,15 +22,14 @@
 
 <br/>
 
-# 👋 About Me
+👋 About Me
 
-I'm **Arpit Tyagi**, a Computer Science student focused on **AI Engineering, Full-Stack Development, and Computer Vision**.
+I'm Arpit Tyagi, a Computer Science student focused on AI Engineering, Full-Stack Development, and Computer Vision.
 
-I build practical software that combines **AI/ML systems with modern web applications** — from LLM-powered resume intelligence and RAG-style workflows to real-time face recognition and computer-vision safety systems.
+I build practical software that combines AI/ML systems with modern web applications — from LLM-powered resume intelligence and RAG-style workflows to real-time face recognition and computer-vision safety systems.
 
-What I enjoy most is going beyond the initial implementation: **testing edge cases, finding failures, debugging unexpected behavior, and adding validation so the system actually works end-to-end.**
+What I enjoy most is going beyond the initial implementation: testing edge cases, finding failures, debugging unexpected behavior, and adding validation so the system actually works end-to-end.
 
-```yaml
 name: Arpit Tyagi
 role: AI Engineer / Full-Stack Developer
 
@@ -52,13 +51,12 @@ currently_learning:
 
 goal:
   Build reliable, production-grade AI products
-```
 
 <br/>
 
-# ⚡ Tech Stack
+⚡ Tech Stack
 
-### 💻 Languages
+💻 Languages
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -67,7 +65,7 @@ goal:
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
-### 🌐 Frontend
+🌐 Frontend
 
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -78,7 +76,7 @@ goal:
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 </p>
 
-### ⚙️ Backend & Databases
+⚙️ Backend & Databases
 
 <p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -89,7 +87,7 @@ goal:
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### 🤖 AI / ML / Computer Vision
+🤖 AI / ML / Computer Vision
 
 <p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -101,7 +99,7 @@ goal:
 <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge"/>
 </p>
 
-### 🛠️ Tools & Deployment
+🛠️ Tools & Deployment
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -114,30 +112,36 @@ goal:
 
 <br/>
 
-# 🌟 Featured Projects
+🌟 Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🤖 HireWise AI
+🤖 HireWise AI
 
-**AI-Powered Resume Analysis & Career Intelligence Platform**
+AI-Powered Resume Analysis & Career Intelligence Platform
 
 A full-stack AI platform that analyzes resumes against job descriptions, evaluates ATS compatibility, identifies skill gaps, and generates grounded resume improvements.
 
-### Highlights
+Highlights
 
-* 10-dimension ATS scoring engine
-* JD skill-gap matching using **TF-IDF + cosine similarity**
-* AI-powered resume rewriting with **anti-fabrication guardrails**
-* Adversarial testing to verify that unsupported skills and metrics are not invented
-* JWT authentication with tested per-user data isolation
-* Tailored DOCX resume export
-* Deployed with **React/Vercel + FastAPI/Render**
+10-dimension ATS scoring engine
 
-**Stack:** `React` `TypeScript` `FastAPI` `Python` `SQLAlchemy` `scikit-learn` `Groq`
+JD skill-gap matching using TF-IDF + cosine similarity
+
+AI-powered resume rewriting with anti-fabrication guardrails
+
+Adversarial testing to verify that unsupported skills and metrics are not invented
+
+JWT authentication with tested per-user data isolation
+
+Tailored DOCX resume export
+
+Deployed with React/Vercel + FastAPI/Render
+
+Stack: React TypeScript FastAPI Python SQLAlchemy scikit-learn Groq
 
 <a href="https://github.com/Arpit-tyagi001/Hirewise-AI">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -147,24 +151,63 @@ A full-stack AI platform that analyzes resumes against job descriptions, evaluat
 
 <td width="50%" valign="top">
 
-## 🛡️ SentinelVisionAI
+🔎 RAG Hybrid Search Chatbot
 
-**Real-Time Computer Vision Attendance & Safety Platform**
+Retrieval-Augmented Generation Chatbot with BM25 + Semantic Search
 
-A real-time computer vision system combining **face recognition, attendance tracking, liveness detection, fire/smoke detection, and automated safety alerts**.
+A RAG-based chatbot designed to answer questions from uploaded documents using hybrid retrieval, combining traditional keyword search with semantic similarity before passing the most relevant context to an LLM.
 
-### Highlights
+Highlights
 
-* Face recognition using **128D facial embeddings**
-* Tuned recognition threshold with ambiguity-margin rejection
-* Blink-based liveness detection for photo-spoof resistance
-* RTSP mobile-camera streaming
-* Reduced live-stream latency from **~5s to <400ms**
-* Custom YOLO fire/smoke detection running alongside face recognition
-* Automated email, SMS, and WhatsApp alerts
-* After-hours intrusion detection with audit logging
+PDF/document ingestion and text chunking
 
-**Stack:** `Python` `Flask` `OpenCV` `YOLO` `SQLite` `Twilio` `Resend`
+Semantic retrieval using vector embeddings
+
+BM25 keyword retrieval for exact-term matching
+
+Hybrid retrieval combining BM25 + semantic results
+
+Top-k context selection before LLM generation
+
+Source-grounded answers with citations
+
+Modular retrieval and generation pipeline
+
+Error handling, configuration, and evaluation-focused design
+
+Stack: Python FastAPI RAG BM25 Semantic Search Embeddings LLM APIs
+
+</td>
+
+<tr>
+
+<td width="50%" valign="top">
+
+🛡️ SentinelVisionAI
+
+Real-Time Computer Vision Attendance & Safety Platform
+
+A real-time computer vision system combining face recognition, attendance tracking, liveness detection, fire/smoke detection, and automated safety alerts.
+
+Highlights
+
+Face recognition using 128D facial embeddings
+
+Tuned recognition threshold with ambiguity-margin rejection
+
+Blink-based liveness detection for photo-spoof resistance
+
+RTSP mobile-camera streaming
+
+Reduced live-stream latency from ~5s to <400ms
+
+Custom YOLO fire/smoke detection running alongside face recognition
+
+Automated email, SMS, and WhatsApp alerts
+
+After-hours intrusion detection with audit logging
+
+Stack: Python Flask OpenCV YOLO SQLite Twilio Resend
 
 <a href="https://github.com/Arpit-tyagi001/face-attendance-recognition-system">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -178,24 +221,31 @@ A real-time computer vision system combining **face recognition, attendance trac
 
 <td width="50%" valign="top">
 
-## 🎨 Virtual AI Art Gallery
+🎨 Virtual AI Art Gallery
 
-**Interactive AI-Powered Digital Art Museum**
+Interactive AI-Powered Digital Art Museum
 
-A WebGL-based digital gallery combining **AI-generated artwork with an interactive 3D experience**.
+A WebGL-based digital gallery combining AI-generated artwork with an interactive 3D experience.
 
-### Highlights
+Highlights
 
-* Real AI artwork generation through Pollinations.ai
-* Persistent client-side image storage
-* React Three Fiber 3D centerpiece
-* Sustained **58–60 FPS** performance
-* Lazy code-splitting for reduced initial bundle cost
-* Custom cursor and Framer Motion transitions
-* `prefers-reduced-motion` accessibility support
-* Lightweight mobile fallback
+Real AI artwork generation through Pollinations.ai
 
-**Stack:** `React` `Three.js` `React Three Fiber` `Framer Motion` `Pollinations.ai`
+Persistent client-side image storage
+
+React Three Fiber 3D centerpiece
+
+Sustained 58–60 FPS performance
+
+Lazy code-splitting for reduced initial bundle cost
+
+Custom cursor and Framer Motion transitions
+
+prefers-reduced-motion accessibility support
+
+Lightweight mobile fallback
+
+Stack: React Three.js React Three Fiber Framer Motion Pollinations.ai
 
 <a href="https://github.com/Arpit-tyagi001/AI-Art-Gallery">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -205,22 +255,27 @@ A WebGL-based digital gallery combining **AI-generated artwork with an interacti
 
 <td width="50%" valign="top">
 
-## 💳 Mobile Store Purchase Predictor
+💳 Mobile Store Purchase Predictor
 
-**Machine Learning Purchase Prediction System**
+Machine Learning Purchase Prediction System
 
 A classification pipeline that predicts customer purchase behavior from demographic and financial features.
 
-### Highlights
+Highlights
 
-* 1,500-record dataset
-* 9 predictive features
-* Logistic Regression vs Random Forest benchmarking
-* **74.7% ROC-AUC**
-* **75.3% F1-score**
-* Live client-side demo deployed on Vercel
+1,500-record dataset
 
-**Stack:** `Python` `Pandas` `scikit-learn` `JavaScript`
+9 predictive features
+
+Logistic Regression vs Random Forest benchmarking
+
+74.7% ROC-AUC
+
+75.3% F1-score
+
+Live client-side demo deployed on Vercel
+
+Stack: Python Pandas scikit-learn JavaScript
 
 </td>
 
@@ -229,24 +284,29 @@ A classification pipeline that predicts customer purchase behavior from demograp
 
 <br/>
 
-# 🧠 How I Engineer AI Systems
+🧠 How I Engineer AI Systems
 
 I don't consider an AI-generated response or a passing build enough evidence that a system works.
 
 While building my projects, I've deliberately investigated failures that were easy to miss:
 
-* A save feature that appeared successful but failed to persist data
-* LLM outputs that passed validation while still making unsupported claims
-* Recognition thresholds that could be lowered simply to make tests pass
-* Real-time video buffering that introduced several seconds of latency
-* CORS and browser security issues affecting generated-image persistence
+A save feature that appeared successful but failed to persist data
+
+LLM outputs that passed validation while still making unsupported claims
+
+Recognition thresholds that could be lowered simply to make tests pass
+
+Real-time video buffering that introduced several seconds of latency
+
+CORS and browser security issues affecting generated-image persistence
 
 These experiences shaped how I build:
 
-```text
 User Problem
      ↓
 Input / Data Processing
+     ↓
+Retrieval / Search
      ↓
 Rules + ML
      ↓
@@ -259,41 +319,47 @@ Backend API
 Testing & Verification
      ↓
 Real User Experience
-```
 
-**My goal isn't just to make AI work.
-It's to make the system behave reliably when things go wrong.**
+My goal isn't just to make AI work.
+It's to make the system behave reliably when things go wrong.
 
 <br/>
 
-# 🏆 Achievements
+🏆 Achievements
 
 <div align="center">
 
-🏅 **Oracle AI Foundations Associate**
+🏅 Oracle AI Foundations Associate
 
-🏅 **Machine Learning Intern**
+🏅 Machine Learning Intern
 
-🏅 **GirlScript of Code / GSSoC 2026 Contributor Selection**
+🏅 GirlScript of Code / GSSoC 2026 Contributor Selection
 
 </div>
 
 <br/>
 
-# 🎯 2026 Goals
+🎯 2026 Goals
 
-* ✅ Build and ship **HireWise AI**
-* ✅ Deploy HireWise AI to production
-* ✅ Build **SentinelVisionAI** with real-time safety detection
-* ⏳ Land meaningful open-source contributions
-* ⏳ Solve **300+ LeetCode problems**
-* ⏳ Build deeper expertise in **LLM Agents & RAG**
-* ⏳ Strengthen **System Design** fundamentals
-* ⏳ Land a **Software Engineering / AI Engineering** role
+✅ Build and ship HireWise AI
+
+✅ Deploy HireWise AI to production
+
+✅ Build SentinelVisionAI with real-time safety detection
+
+⏳ Land meaningful open-source contributions
+
+⏳ Solve 300+ LeetCode problems
+
+⏳ Build deeper expertise in RAG, Hybrid Search & LLM Agents
+
+⏳ Strengthen AI System Design & Evaluation fundamentals
+
+⏳ Land a Software Engineering / AI Engineering role
 
 <br/>
 
-# 📈 GitHub Analytics
+📈 GitHub Analytics
 
 <div align="center">
 
@@ -323,9 +389,9 @@ It's to make the system behave reliably when things go wrong.**
 
 <div align="center">
 
-## 💡 Build. Test. Break. Fix. Ship.
+💡 Build. Test. Break. Fix. Ship.
 
-I enjoy turning ideas into **working, measurable, and reliable software**.
+I enjoy turning ideas into working, measurable, and reliable software.
 
 <br/>
 
