@@ -46,7 +46,7 @@ currently_building:
 
 currently_learning:
   - LLM Agents
-  - RAG & Tool Calling
+  - RAG & Tool calling
   - System Design
 
 goal:
