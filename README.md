@@ -1,418 +1,162 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=260&section=header&text=Arpit%20Tyagi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Computer%20Vision&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0C0B,50:1D3557,100:2563EB&height=230&section=header&text=Arpit%20Tyagi&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineering%20%7C%20Full-Stack%20Development%20%7C%20Computer%20Vision&descAlignY=58&descSize=16" width="100%" alt="Arpit Tyagi profile banner"/>
 
-<a href="https://linkedin.com/in/arpit-tyagi1000">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:arpittyagidev101@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/Arpit-tyagi001">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://linkedin.com/in/arpit-tyagi1000"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/Arpit-tyagi001"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:arpittyagi445@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=750&lines=Building+practical+AI-powered+products;LLMs+%7C+Machine+Learning+%7C+Computer+Vision;Python+%7C+React+%7C+FastAPI+%7C+Node.js;Build.+Test.+Debug.+Ship." alt="Typing introduction"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00C9FF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Applications+%F0%9F%A4%96;LLMs+%7C+Computer+Vision+%7C+Full+Stack;Turning+Ideas+Into+Shipped+Products+%F0%9F%9A%80;Building%2C+Testing%2C+and+Verifying+AI+Systems"/>
-
+📍 Meerut, India · B.Tech Computer Science, 2023–2027
 </div>
 
-<br/>
-
 👋 About Me
+I'm Arpit Tyagi, a Computer Science student and software developer interested in AI Engineering, full-stack development, and computer vision.
 
-I'm Arpit Tyagi, a Computer Science student focused on AI Engineering, Full-Stack Development, and Computer Vision.
+I build applications that combine practical software engineering with AI/ML—from LLM-powered resume analysis and data pipelines to real-estate platforms and real-time vision systems.
 
-I build practical software that combines AI/ML systems with modern web applications — from LLM-powered resume intelligence and RAG-style workflows to real-time face recognition and computer-vision safety systems.
-
-What I enjoy most is going beyond the initial implementation: testing edge cases, finding failures, debugging unexpected behavior, and adding validation so the system actually works end-to-end.
-
-name: Arpit Tyagi
-role: AI Engineer / Full-Stack Developer
-
-focus:
-  - AI Engineering & LLM Applications
-  - Computer Vision & Real-Time Systems
-  - Full-Stack Development
-  - AI Reliability & Guardrails
-
-currently_building:
-  - HireWise AI
-  - SentinelVisionAI
-  - Virtual AI Art Gallery
-
-currently_learning:
-  - LLM Agents
-  - RAG & Tool calling
-  - System Design
-
-goal:
-  Build reliable, production-grade AI products
-
-<br/>
-
-⚡ Tech Stack
-
-💻 Languages
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
-
-🌐 Frontend
-
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Three_Fiber-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-</p>
-
-⚙️ Backend & Databases
-
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-🤖 AI / ML / Computer Vision
-
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge"/>
-</p>
-
-🛠️ Tools & Deployment
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white"/>
-</p>
-
-<br/>
-
-🌟 Featured Projects
-
+I care about more than getting a demo to work: I focus on data quality, API design, testing, validation, and making systems more reliable.
+- 🔭 Currently working: Python data and LLM pipelines at Kyron DataTech
+- 🤖 Interested in: LLM applications, RAG, AI agents, ML, and computer vision
+- 🧰 Core stack: Python, React, TypeScript, FastAPI, Node.js, SQL
+- 🎓 Education: B.Tech in Computer Science, Bharat Institute of Technology, Meerut
+- 🎯 Goal: Build reliable AI products and grow as an AI / Software Engineer
+💼 Experience
+Software Engineering Intern · Kyron DataTech
+October 2026 – Present · Remote
+- Built a Python/Hugging Face data pipeline producing 30,486 reasoning records (~299.95 MB) with filtering, SHA-256 deduplication, reproducible 90/5/5 splits, and 22 automated tests.
+- Generated 3,000+ English-tutoring Q&A pairs using a teacher LLM, with Jaccard deduplication, Unicode normalization, and a 200-question holdout set.
+- Engineered a GPT-OSS-120B distillation workflow that reduced average answer length by 88% (363 → 43 words) through prompt A/B testing; collected 600+ answers using resumable API scripts.
+- Technologies: Python, Hugging Face, LLMs, MCP, REST APIs, Git
+Full Stack Developer Intern · Emertxe Information Technologies
+August 2026 – September 2026 · Remote
+- Developed HomelyHub, a real-estate marketplace with property listings, discovery, search, filtering, authentication, and enquiries.
+- Built 10+ reusable React components and 10+ REST APIs with Node.js, Express, and MongoDB.
+- Applied modular architecture, responsive UI practices, unit and integration testing, and test-driven development.
+- Technologies: MongoDB, Express.js, React, Node.js, Tailwind CSS
+ML Engineer Intern · Vinnpro LLC
+July 2026 – August 2026 · Remote
+- Fine-tuned a YOLOv8 model on a custom fire-and-smoke dataset using PyTorch and Ultralytics.
+- Achieved 74.7% mAP@50, 43.0% mAP@50–95, 75.0% precision, and 67.9% recall.
+- Reduced classification loss from 2.49 to 1.00 and box loss from 1.69 to 1.32 during training.
+- Technologies: Python, PyTorch, YOLOv8, OpenCV
+🚀 Featured Projects
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 🤖 HireWise AI
+AI-powered resume analysis and career platform
 
-AI-Powered Resume Analysis & Career Intelligence Platform
-
-A full-stack AI platform that analyzes resumes against job descriptions, evaluates ATS compatibility, identifies skill gaps, and generates grounded resume improvements.
-
-Highlights
-
-10-dimension ATS scoring engine
-
-JD skill-gap matching using TF-IDF + cosine similarity
-
-AI-powered resume rewriting with anti-fabrication guardrails
-
-Adversarial testing to verify that unsupported skills and metrics are not invented
-
-JWT authentication with tested per-user data isolation
-
-Tailored DOCX resume export
-
-Deployed with React/Vercel + FastAPI/Render
-
-Stack: React TypeScript FastAPI Python SQLAlchemy scikit-learn Groq
-
-<a href="https://github.com/Arpit-tyagi001/Hirewise-AI">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+Analyzes resumes against job descriptions, evaluates ATS compatibility, identifies skill gaps, and generates targeted resume improvements.
+- 10-dimension ATS scoring engine with a 100-point evaluation
+- TF-IDF + cosine similarity and a 100+ skill taxonomy
+- LLM-powered resume rewriting with anti-fabrication guardrails
+- JWT authentication and secure file validation
+Stack: React, TypeScript, FastAPI, Python, PostgreSQL, SQLAlchemy, scikit-learn, Groq
 </td>
-
 <td width="50%" valign="top">
 
-🔎 RAG Hybrid Search Chatbot
+🏡 HomelyHub
+Full-stack real-estate marketplace
 
-Retrieval-Augmented Generation Chatbot with BM25 + Semantic Search
-
-A RAG-based chatbot designed to answer questions from uploaded documents using hybrid retrieval, combining traditional keyword search with semantic similarity before passing the most relevant context to an LLM.
-
-Highlights
-
-PDF/document ingestion and text chunking
-
-Semantic retrieval using vector embeddings
-
-BM25 keyword retrieval for exact-term matching
-
-Hybrid retrieval combining BM25 + semantic results
-
-Top-k context selection before LLM generation
-
-Source-grounded answers with citations
-
-Modular retrieval and generation pipeline
-
-Error handling, configuration, and evaluation-focused design
-
-Stack: Python FastAPI RAG BM25 Semantic Search Embeddings LLM APIs
-
+A property platform for discovering, searching, filtering, and managing rental and sale listings.
+- 10+ REST APIs for authentication and property operations
+- JWT-protected routes and bcrypt password hashing
+- Reusable React components and responsive listing/detail views
+- Image uploads and email workflows
+Stack: MongoDB, Express.js, React, Node.js, JWT, ImageKit, Nodemailer, Tailwind CSS
 </td>
-
-<tr>
-
-<td width="50%" valign="top">
-
-🛡️ SentinelVisionAI
-
-Real-Time Computer Vision Attendance & Safety Platform
-
-A real-time computer vision system combining face recognition, attendance tracking, liveness detection, fire/smoke detection, and automated safety alerts.
-
-Highlights
-
-Face recognition using 128D facial embeddings
-
-Tuned recognition threshold with ambiguity-margin rejection
-
-Blink-based liveness detection for photo-spoof resistance
-
-RTSP mobile-camera streaming
-
-Reduced live-stream latency from ~5s to <400ms
-
-Custom YOLO fire/smoke detection running alongside face recognition
-
-Automated email, SMS, and WhatsApp alerts
-
-After-hours intrusion detection with audit logging
-
-Stack: Python Flask OpenCV YOLO SQLite Twilio Resend
-
-<a href="https://github.com/Arpit-tyagi001/face-attendance-recognition-system">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
-🎨 Virtual AI Art Gallery
+🛡️ SecureVision Pro
+Computer vision surveillance and safety system
 
-Interactive AI-Powered Digital Art Museum
-
-A WebGL-based digital gallery combining AI-generated artwork with an interactive 3D experience.
-
-Highlights
-
-Real AI artwork generation through Pollinations.ai
-
-Persistent client-side image storage
-
-React Three Fiber 3D centerpiece
-
-Sustained 58–60 FPS performance
-
-Lazy code-splitting for reduced initial bundle cost
-
-Custom cursor and Framer Motion transitions
-
-prefers-reduced-motion accessibility support
-
-Lightweight mobile fallback
-
-Stack: React Three.js React Three Fiber Framer Motion Pollinations.ai
-
-<a href="https://github.com/Arpit-tyagi001/AI-Art-Gallery">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+Combines face recognition, attendance, liveness checks, fire/smoke detection, and event alerts in a modular application.
+- YOLOv8 fire/smoke detection: 74.7% mAP@50
+- Face-recognition workflow with liveness and duplicate-entry prevention
+- RTSP camera support and SQLite event logging
+- Automated email/SMS/WhatsApp alert integrations
+Stack: Python, Flask, OpenCV, YOLOv8, SQLite
 </td>
-
 <td width="50%" valign="top">
 
-💳 Mobile Store Purchase Predictor
-
-Machine Learning Purchase Prediction System
-
-A classification pipeline that predicts customer purchase behavior from demographic and financial features.
-
-Highlights
-
-1,500-record dataset
-
-9 predictive features
-
-Logistic Regression vs Random Forest benchmarking
-
-74.7% ROC-AUC
-
-75.3% F1-score
-
-Live client-side demo deployed on Vercel
-
-Stack: Python Pandas scikit-learn JavaScript
-
+📈 More engineering work
+Explore my repositories for additional experiments and implementations across AI, machine learning, and full-stack development.
+- RAG-Agent — document retrieval and LLM question answering
+- QuantLens — stock-direction modelling and evaluation
+- All repositories →
 </td>
-
 </tr>
 </table>
 
-<br/>
+🧰 Tech Stack
+Languages
 
-🧠 How I Engineer AI Systems
 
-I don't consider an AI-generated response or a passing build enough evidence that a system works.
 
-While building my projects, I've deliberately investigated failures that were easy to miss:
 
-A save feature that appeared successful but failed to persist data
 
-LLM outputs that passed validation while still making unsupported claims
+Frontend
 
-Recognition thresholds that could be lowered simply to make tests pass
 
-Real-time video buffering that introduced several seconds of latency
 
-CORS and browser security issues affecting generated-image persistence
 
-These experiences shaped how I build:
 
-User Problem
-     ↓
-Input / Data Processing
-     ↓
-Retrieval / Search
-     ↓
-Rules + ML
-     ↓
-LLM / AI Model
-     ↓
-Validation & Guardrails
-     ↓
-Backend API
-     ↓
-Testing & Verification
-     ↓
-Real User Experience
 
-My goal isn't just to make AI work.
-It's to make the system behave reliably when things go wrong.
+Backend & Databases
 
-<br/>
 
-🏆 Achievements
 
+
+
+
+
+
+AI / ML & Computer Vision
+
+
+
+
+
+
+
+Tools & Deployment
+
+
+
+
+
+🧠 Engineering Principles
+I aim to build systems that are not only functional, but also testable and dependable.
+- Data quality: filtering, normalization, deduplication, and holdout sets
+- Reliable AI: validation, grounded outputs, and anti-fabrication guardrails
+- Maintainable software: modular APIs, reusable components, and clear separation of concerns
+- Testing: automated tests and verification of edge cases
+- Measurement: use concrete metrics to evaluate model and application behavior
+🎓 Education & Certification
+- B.Tech, Computer Science & Engineering — Bharat Institute of Technology, Meerut (2023–2027; CGPA: 7.01)
+- Oracle AI Foundations Associate — Oracle (2025)
+- Problem solving: 100+ Data Structures & Algorithms problems solved on LeetCode
+📊 GitHub Stats
 <div align="center">
 
-🏅 Oracle AI Foundations Associate
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Arpit-tyagi001&show_icons=true&theme=transparent&hide_border=true" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit-tyagi001&layout=compact&theme=transparent&hide_border=true" alt="Most-used languages"/>
 
-🏅 Machine Learning Intern
 
-🏅 GirlScript of Code / GSSoC 2026 Contributor Selection
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arpit-tyagi001&theme=transparent&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
-<br/>
-
-🎯 2026 Goals
-
-✅ Build and ship HireWise AI
-
-✅ Deploy HireWise AI to production
-
-✅ Build SentinelVisionAI with real-time safety detection
-
-⏳ Land meaningful open-source contributions
-
-⏳ Solve 300+ LeetCode problems
-
-⏳ Build deeper expertise in RAG, Hybrid Search & LLM Agents
-
-⏳ Strengthen AI System Design & Evaluation fundamentals
-
-⏳ Land a Software Engineering / AI Engineering role
-
-<br/>
-
-📈 GitHub Analytics
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Arpit-tyagi001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+Build. Test. Debug. Ship.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit-tyagi001&layout=compact&theme=tokyonight&hide_border=true"/>
+I'm always interested in building useful software, learning from other engineers, and contributing to meaningful projects.
 
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arpit-tyagi001&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arpit-tyagi001&theme=tokyo-night&hide_border=true" width="95%"/>
-
-</div>
-
-<br/>
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-<img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
-<br/><br/>
-
-<div align="center">
-
-💡 Build. Test. Break. Fix. Ship.
-
-I enjoy turning ideas into working, measurable, and reliable software.
-
-<br/>
-
-<a href="https://github.com/Arpit-tyagi001">
-<img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/arpit-tyagi1000">
-<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Arpit-tyagi001&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
-<img src="https://img.shields.io/github/followers/Arpit-tyagi001?label=Followers&style=for-the-badge&logo=github" />
-
-<img src="https://img.shields.io/github/stars/Arpit-tyagi001?affiliations=OWNER&style=for-the-badge&logo=github" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:0F2027&height=120&section=footer" width="100%"/>
-
+<a href="https://linkedin.com/in/arpit-tyagi1000">Connect on LinkedIn</a> · <a href="mailto:arpittyagi445@gmail.com">Email me</a> · <a href="https://github.com/Arpit-tyagi001?tab=repositories">Explore my repositories</a>
 </div>
